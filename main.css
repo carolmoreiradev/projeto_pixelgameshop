@@ -108,8 +108,8 @@ section{
 
 .produtos{
     display: grid;
-    grid-template-columns: repeat(4, 25%);
-    column-gap: 2%;
+    grid-template-columns: repeat(4, 24%);
+    column-gap: 1.7%;
 }
 
 .produtos img{
